@@ -5,7 +5,7 @@ import { error } from "console";
 
 
 export const GET = () => {
-    return NextResponse.json('hello')
+    return NextResponse.json('hello ')
 };
 
 
